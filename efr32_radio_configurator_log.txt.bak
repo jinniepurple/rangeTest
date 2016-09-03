@@ -1,0 +1,31 @@
+// Copyright 2016 Silicon Laboratories, Inc.
+//
+//
+
+
+API version: 0.61.0
+
+- Calculated values:
+Timing Detection Threshold = 31 
+Timing Samples Threshold = 10 
+AFC Frequency Limit = 0 Hz
+Channel Bandwidth = 100000 Hz
+IF Frequency = 400000 Hz
+PLL Bandwidth = 2 
+Number of Symbols in Timing Window = 16 
+Number of Errors Allowed in a Timing Window = 0 
+Number of Timing Windows to Detect = 1 
+Signal Quality Indicator Threshold = 200 
+Timing Resync Period = 2 
+Frequency Offset Period = 0 
+AGC Power Target = -2 dBm
+RSSI Update Period = 3 
+AGC Hysteresis = 3 dB
+AGC Settling Delay = 37 
+AFC Step Scale = 1.0 
+AGC Period = 1 
+RX Baudrate offset = 0 Hz
+AGC Speed = 0 
+Frequency Compensation Mode = 7 
+Preamble on the air: 0101010101010101010101010101010101010101
+Syncword 0 on the air: 1111011010001101
